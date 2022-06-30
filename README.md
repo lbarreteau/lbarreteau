@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Louis B</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Louis Barreteau</h1>
+<h3 align="center">Testing, Testing, Testing...</h3>
+
+- 🔭 I’m currently learning at [Epitech](https://www.epitech.eu/)
+
+- 🤝 I’m looking for help with [Air2](https://air2.org/)
+
+- 📫 How to reach me **louis.barreteau@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
