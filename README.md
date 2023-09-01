@@ -1,8 +1,5 @@
-<p align=”center”>
+<img src="assets/banner.png" alt="Alt Text">
 
-<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
-</p>
 <h1 align="center">Hi 👋, I'm Louis Barreteau</h1>
 <h3 align="center">Testing, Testing, Testing...</h3>
 
